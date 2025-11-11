@@ -1,3 +1,8 @@
+# This is my fork of DWL I haven't really done anything to it
+
+
+
+## The pre-existing readme V
 # dwl - dwm for Wayland
 
 Join us on our IRC channel: [#dwl on Libera Chat]  
